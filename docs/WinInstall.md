@@ -4,6 +4,8 @@
 
 > [다운로드 링크](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.27/Sniper-Setup-0.0.27.exe)
 
+<br>
+
 ### 문제해결
 
 윈도우 설치 시 스마트스크린 필터에 의해 앱이 설치되지 않을 수 있습니다. </br>
