@@ -1,7 +1,6 @@
 ![Sniper Desktop App](images/intro.png)
 
 ### 다운로드
-<b>베타 버전이라 아직 불안정 할 수 있습니다.</b>
 
 * [(베타) Windows 버전](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.27/Sniper-Setup-0.0.27.exe)
 * [(베타) Mac 버전](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.27/Sniper-0.0.27.dmg)
