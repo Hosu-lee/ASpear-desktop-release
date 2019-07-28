@@ -2,8 +2,8 @@
 
 ### 다운로드
 
-* [(베타) Windows 버전](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.27/Sniper-desktop-Setup-0.0.27.exe)
-* [(베타) Mac 버전](docs/MacInstall.md)
+* [(베타) Windows 버전](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.27/Sniper-Setup-0.0.27.exe)
+* [(베타) Mac 버전](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.27/Sniper-0.0.27.dmg)
 * [iOS 버전](https://apps.apple.com/kr/app/sniper/id1457153640)
 * [안드로이드 버전](https://play.google.com/store/apps/details?id=i.hate.sni.bypasssni)
 
