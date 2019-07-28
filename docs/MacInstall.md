@@ -8,4 +8,4 @@
 
 ### 2. Sniper 설치하기
 
-[설치하기](https://github.com/sniper-internet/Sniper-desktop-release/releases/tag/untagged-674ecde92444cd62e40c)
+> [설치하기](https://github.com/sniper-internet/Sniper-desktop-release/releases/tag/untagged-674ecde92444cd62e40c)
