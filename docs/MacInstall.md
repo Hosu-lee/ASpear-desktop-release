@@ -8,4 +8,4 @@
 
 ### 2. Sniper 설치하기
 
-> [다운로드 ](https://github.com/sniper-internet/Sniper-desktop-release/releases/tag/v0.0.27)
+> [다운로드 ](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.27/Sniper-0.0.27.dmg)
