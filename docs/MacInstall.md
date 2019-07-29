@@ -6,6 +6,11 @@
 
 > [TunTapOsX 다운로드](https://sourceforge.net/projects/tuntaposx/files/tuntap/20150118/tuntap_20150118.tar.gz)
 
+###### :warning:다음과 같이 TunTapOsX가 설치되지 않을 경우, 보안센터에서 TuntapOsX를 허용해준 다음에 시스템을 재시작하면 설치됩니다.
+![TunTap](https://user-images.githubusercontent.com/53137855/62031804-28d29680-b223-11e9-9dab-bbdb1a95776d.png)
+
+
+
 ### 2. Sniper 설치하기
 
 > [다운로드 ](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.27/Sniper-0.0.27.dmg)
