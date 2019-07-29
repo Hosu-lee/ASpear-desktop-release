@@ -13,6 +13,5 @@
 <br>
 **MSVCP140.dll** 이 없어 실행할 수 없다는 팝업이 발생할 경우, [여기](https://www.microsoft.com/ko-kr/download/details.aspx?id=48145)에서 C++ 재배포 패키지 x64를 다운로드받아 설치하여 주시기 바랍니다. <br>
 <br>
-
 스나이퍼는 동작을 위해 관리자 권한을 필요로 합니다. **User did not grant permission** 에러 발생 시, 관리자 권한을 먼저 부여받아야 합니다. 관리자 권한 요청 창이 나타날 경우 관리자 패스워드를 입력하고 '예' 버튼을 눌러 주시기 바랍니다. <br>
 
