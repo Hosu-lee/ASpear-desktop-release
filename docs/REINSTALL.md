@@ -5,4 +5,4 @@
 불편하시더라도 아래 가이드대로 재설치 이후 이용 부탁드립니다 ( _ _ )
 
 1. 스나이퍼 삭제하기
-2. 스나이퍼 다시 [설치하기](https://electronjs.org/docs/api/tray)
+2. 스나이퍼 다시 [설치하기](https://github.com/sniper-internet/Sniper-desktop-release)
