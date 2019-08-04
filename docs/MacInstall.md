@@ -15,6 +15,8 @@
 
 > [다운로드 ](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.28/Sniper-0.0.28.dmg)
 
+<br>
+
 ### 문제해결
 
 ![DMG_Error](https://github.com/sniper-internet/Sniper-desktop-release/blob/master/images/DMG%20Error%201.png)
