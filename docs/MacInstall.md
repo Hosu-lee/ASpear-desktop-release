@@ -14,3 +14,9 @@
 ### 2. Sniper 설치하기
 
 > [다운로드 ](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.28/Sniper-0.0.28.dmg)
+
+### 문제해결
+
+![DMG_Error](https://github.com/sniper-internet/Sniper-desktop-release/blob/master/images/DMG%20Error%201.png)
+
+맥에서 실행 시 위와 같은 문제가 발생할 경우 **Control 키**를 누른 상태로 클릭한 후 '열기'를 선택하여 진행해 주시기 바랍니다.
