@@ -2,7 +2,7 @@
 
 ### Sniper 설치하기
 
-> [다운로드 링크](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.33/Sniper-Setup-0.0.33.exe)
+> [다운로드 링크](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.34/Sniper-Setup-0.0.34.exe)
 
 <br>
 
