@@ -23,7 +23,7 @@ ASpear Mac 베타 버전을 이용하기 위해서는 TunTapOsX를 먼저 설치
 
 <br>
 
-![DMG_Error](https://github.com/sniper-internet/ASpear-desktop-release/blob/master/images/DMG%20Error%201.png)
+![DMG_Error](https://github.com/aspear-internet/ASpear-desktop-release/blob/master/images/DMG%20Error%201.png)
 
 아직 베타 버전이라 앱스토어에 출시가 되지 않아 발생하는 문제입니다.<br/>
 터미널에 아래 명령어를 입력한후에 다시 진행해 주시기 바랍니다.
