@@ -1,8 +1,8 @@
-# 스나이퍼 Mac 버전 설치하기
+# ASpear Mac 버전 설치하기
 
 ### 1. TunTapOsX 설치하기
 
-스나이퍼 Mac 베타 버전을 이용하기 위해서는 TunTapOsX를 먼저 설치해야 합니다.
+ASpear Mac 베타 버전을 이용하기 위해서는 TunTapOsX를 먼저 설치해야 합니다.
 
 > [TunTapOsX 다운로드](https://sourceforge.net/projects/tuntaposx/files/tuntap/20150118/tuntap_20150118.tar.gz)
 
@@ -11,9 +11,9 @@
 
 
 
-### 2. Sniper 설치하기
+### 2. ASpear 설치하기
 
-> [다운로드 ](https://github.com/sniper-internet/Sniper-desktop-release/releases/download/v0.0.36/Sniper-0.0.36.dmg)
+> [다운로드 ](https://github.com/aspear-internet/ASpear-desktop-release/releases/download/v0.0.36/Sniper-0.0.36.dmg)
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-![DMG_Error](https://github.com/sniper-internet/Sniper-desktop-release/blob/master/images/DMG%20Error%201.png)
+![DMG_Error](https://github.com/sniper-internet/ASpear-desktop-release/blob/master/images/DMG%20Error%201.png)
 
 아직 베타 버전이라 앱스토어에 출시가 되지 않아 발생하는 문제입니다.<br/>
 터미널에 아래 명령어를 입력한후에 다시 진행해 주시기 바랍니다.
